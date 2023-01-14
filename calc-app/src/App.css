@@ -1,11 +1,16 @@
   @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
-.App{
+
+body{
+  background-color: rgb(171, 177, 210);
+}
+  .App{
   background-color: black;
   border-radius: 30px;
   border: 2px solid black;
   width: 320px;
   height: 490px;
   margin: 100px auto;
+  box-shadow: 5px 10px 150px 20px rgb(0, 0, 0);
   /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
 }
 #answer{
